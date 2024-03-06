@@ -1,0 +1,11 @@
+Tanggal,Nama Barang,Jumlah Terjual,Support,Confidence
+2023-01-01,Keripik Singkong,10,0.2,0.6
+2023-01-01,Kripik Pisang,5,0.15,0.7
+2023-01-02,Keripik Singkong,8,0.28,0.8
+2023-01-02,Kripik Kentang,12,0.41,0.9
+2023-01-03,Keripik Singkong,15,0.54,0.10
+2023-01-03,Kripik Pisang,7,0.67,0.11
+2023-01-04,Keripik Singkong,9,0.80,0.12
+2023-01-04,Kripik Kentang,10,0.93,0.13
+2023-01-05,Keripik Singkong,12,0.106,0.14
+2023-01-05,Kripik Pisang,8,0.5,1
